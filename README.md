@@ -17,4 +17,4 @@
 
 ### Minhas informações aqui no GitHub:
 
-![Status](https://github-readme-stats.vercel.app/api?username=FelipeSandes) [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuNomeDeUsuario&layout=compact)](https://github.com/FelipeSandes)
+![Status](https://github-readme-stats.vercel.app/api?username=FelipeSandes) [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSandes&layout=compact)](https://github.com/FelipeSandes)
